@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yusra05&color=ff69b4) 
+![](https://komarev.com/ghpvc/?username=yusraSyed05&color=ff69b4) 
 # Hey there👋, I am Yusra 💖
 ➡ Currently optimizing my stack... and my caffeine intake.😴  
 ➡ Debugging life, one commit at a time.🐛  
@@ -17,7 +17,7 @@
  
 
 ## GitHub Stats 📈
-![yusra05's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=yusra05&type=contributions&theme=radical) 
+![yusra05's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=yusraSyed05&type=contributions&theme=radical) 
 
 
 ## LeetCode Badges🛡️
