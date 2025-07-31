@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=yusraSyed05&color=ff69b4) 
-# Hey there👋, I am Yusra 💖
+# <img src="https://github.com/user-attachments/assets/09c452c4-b08f-4178-a836-9a31b2baf0f7" width="50"/>  Hey there, I am Yusra 💖
 ➡ Currently optimizing my stack... and my caffeine intake.😴  
 ➡ Debugging life, one commit at a time.🐛  
 ➡ Writes code. Occasionally, it even works.😅  
