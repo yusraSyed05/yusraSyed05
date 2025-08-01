@@ -1,12 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=yusraSyed05&color=ff69b4) 
 # <img src="https://github.com/user-attachments/assets/09c452c4-b08f-4178-a836-9a31b2baf0f7" width="40"/>  Hey there, I am Yusra 💖
-*I'm currently refining my DSA and development skills while also exploring the AI/ML on the side. I enjoy learning, experimenting with code, and figuring out what truly excites me in tech. I'm focused on growing at my own pace and building a strong foundation as I go.* <img src="https://github.com/user-attachments/assets/3a4a36fe-f004-4de7-aaba-5f0e0276b0d8" width="30"/>
+*I'm currently refining my DSA and development skills while also exploring the AI/ML on the side. I enjoy learning, experimenting with code, and figuring out what truly excites me in tech. I'm focused on growing at my own pace and building a strong foundation as I go.*  <img src="https://github.com/user-attachments/assets/3a4a36fe-f004-4de7-aaba-5f0e0276b0d8" width="30"/>
 
-### 📫 Let’s connect!  
+### 📫 Let’s connect! <img src="https://github.com/user-attachments/assets/6cff8676-4ad3-4db4-8a82-9413fdebdecc" width="30"/> 
+
+
 - **LinkedIn:** [yusra05](https://www.linkedin.com/in/yusra05/)  
 - **Email:** yusra.me123987@gmail.com  
 
-## *🛠 Languages and Tools* 🚀  
+## *🛠 Languages and Tools*  <img src="https://github.com/user-attachments/assets/4f3e85a0-469d-43a1-bdb4-5ded413143cc" width="30"/> 
 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)   
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -14,17 +16,20 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
  
 
-## GitHub Stats 📈
+## GitHub Stats <img src="https://github.com/user-attachments/assets/a2ee722a-68a7-49a4-a33c-5822660345ba" width="30"/>
+
 ![yusra05's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=yusraSyed05&type=contributions&theme=radical) 
 
 
-## LeetCode Badges🛡️
+## LeetCode Badges <img src="https://github.com/user-attachments/assets/42ad2805-29fd-4de5-90de-daa539595fbf" width="40"/>
+
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=yusra05&theme=dark&border=border&animated=true" />
 
-## Holopin Badges🔰
+## Holopin Badges <img src="https://github.com/user-attachments/assets/15755197-bdc9-42dc-b1c4-22bac820ffa8" width="30"/>
+
 
 [![An image of @yusra05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusra05)](https://holopin.io/@yusra05)
 
 ---
 
-### ✨The error of the past is the wisdom of the future
+### ✨ The error of the past is the wisdom of the future. <img src="https://github.com/user-attachments/assets/09b385ff-6bbf-42a5-8539-3f01e50539b9" width="30"/>
