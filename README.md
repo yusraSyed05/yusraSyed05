@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yusraSyed05&color=ff69b4) 
 # <img src="https://github.com/user-attachments/assets/09c452c4-b08f-4178-a836-9a31b2baf0f7" width="40"/>  Hey there, I am Yusra 💖
-*I'm currently refining my DSA and development skills while also exploring the AI/ML on the side. I enjoy learning, experimenting with code, and figuring out what truly excites me in tech. I'm focused on growing at my own pace and building a strong foundation as I go.*
+*I'm currently refining my DSA and development skills while also exploring the AI/ML on the side. I enjoy learning, experimenting with code, and figuring out what truly excites me in tech. I'm focused on growing at my own pace and building a strong foundation as I go.* <img src="https://github.com/user-attachments/assets/3a4a36fe-f004-4de7-aaba-5f0e0276b0d8" width="30"/>
 
 ### 📫 Let’s connect!  
 - **LinkedIn:** [yusra05](https://www.linkedin.com/in/yusra05/)  
