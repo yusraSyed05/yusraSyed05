@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yusraSyed05&color=ff69b4) 
 # <img src="https://github.com/user-attachments/assets/09c452c4-b08f-4178-a836-9a31b2baf0f7" width="40"/>  Hey there, I am Yusra 💖
-*I'm currently refining my DSA and development skills while also exploring the AI/ML on the side. I enjoy learning & experimenting with code.*  <img src="https://github.com/user-attachments/assets/3a4a36fe-f004-4de7-aaba-5f0e0276b0d8" width="30"/>
+*I'm currently refining my DSA and development skills while also exploring the AI/ML on the side.*  <img src="https://github.com/user-attachments/assets/3a4a36fe-f004-4de7-aaba-5f0e0276b0d8" width="30"/>
 
 ### 📫 Let’s connect! <img src="https://github.com/user-attachments/assets/6cff8676-4ad3-4db4-8a82-9413fdebdecc" width="30"/> 
 
